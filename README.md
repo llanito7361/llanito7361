@@ -39,13 +39,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 Un poco de stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=llanito7361&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llanito7361&layout=compact&theme=radical" height="150" />
-</p>
-
----
 
 ## 📫 Contacto  
 Si querés hablar sobre código, proyectos o cualquier idea interesante, podés encontrarme acá:  
