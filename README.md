@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 <h1 align="center">👋 ¡Hola! Soy Emanuel</h1>
 
 <p align="center">
-  Soy desarrollador Full Stack con enfoque en <strong>React, Node.js y TypeScript</strong>.  
+  Soy un desarrollador Full Stack con enfoque en <strong>React, Node.js y TypeScript</strong>.  
   Me gusta escribir código limpio, optimizar rendimiento y construir interfaces que realmente se sientan bien al usar.  
   Siempre estoy aprendiendo algo nuevo y buscando formas de mejorar lo que ya sé.  
 </p>
 
 ---
 
-## 🚀 Tecnologías que uso  
+## 🚀 Tecnologías que uso   
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -48,5 +48,6 @@ Si querés hablar sobre código, proyectos o cualquier idea interesante, podés 
 - 🌎 **Portfolio:** [emanuelgodoyllano.vercel.app](https://emanuelgodoyllano.vercel.app/)  
 
 ---
-
+<!--
 Siempre abierto a nuevos desafíos y oportunidades. ¡Nos vemos en el código! 🚀  
+--> 
